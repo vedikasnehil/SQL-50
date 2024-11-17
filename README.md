@@ -45,6 +45,3 @@ This repository documents my journey to solve **50 SQL questions every weekend**
 - Build a comprehensive collection of SQL problem solutions.  
 - Share knowledge and learn from the community.  
 
----  
-
-This version keeps the focus on the challenge and repository structure, without progress tracking in the README itself.
